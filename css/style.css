@@ -8459,7 +8459,7 @@ h1, h2, h3, h4, h5,
   font-size: 60px; }
 
 .mouse {
-  position: absolute;
+  position: relative;
   left: 0;
   right: 0;
   bottom: 120px;
@@ -8474,6 +8474,7 @@ h1, h2, h3, h4, h5,
   text-align: center;
   margin: 0 auto;
   display: block; }
+
   .mouse-icon:after {
     position: absolute;
     top: 0;
