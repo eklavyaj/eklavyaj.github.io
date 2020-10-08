@@ -57,8 +57,8 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  /* background-color: #fff;  */
-  background-color: #000;
+  background-color: #fff; 
+  /* background-color: #000; */
 }
 
 [tabindex="-1"]:focus {
@@ -8923,7 +8923,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: #3e64ff;
+    /* background: #d0d5eb; */
     opacity: .7; }
   .ftco-hireme h2 {
     color: #fff;
@@ -9194,9 +9194,9 @@ textarea.form-control {
     top: 0px;
     left: 0;
     font-size: 7vw;
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(211, 208, 208, 0.192);
     z-index: -1;
-    font-weight: 900; }
+    font-weight: 500; }
     .heading-section h1.big.big-2 {
       right: 0; }
   .heading-section h2 {
